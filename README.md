@@ -107,7 +107,6 @@ npm run dev
 
 ![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%201.png)
 ![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%202.png)
-![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%203.png)
 ![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%204.png)
 ![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%205.png)
 ![image alt](https://github.com/MrTharinduDasantha/Dentist/blob/2352ff9948be0ab1238864d680585188bec04d82/public/website-images/Img%20-%206.png)
