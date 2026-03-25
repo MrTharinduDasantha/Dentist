@@ -64,7 +64,7 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = "Enter your next public clerk publishable ke
 CLERK_SECRET_KEY = "Enter your clerk secret key"
 
 # PostgresSQL Database URL
-DATABASE_URL = "Enter your clerk secret key"
+DATABASE_URL = "PostgreSQL database url"
 
 # VAPI Assistant ID
 NEXT_PUBLIC_VAPI_ASSISTANT_ID = "Enter your vapi assistant id"
